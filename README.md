@@ -1,0 +1,2 @@
+cloudera-cdh-chef
+=================
